@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Kunta.
 - 👀 I’m interested in C# and API development.
-- 🌱 I’m currently learning to build API endpoints and integrations.
+- 🌱 I’m currently learning OAuth2 and OpenID Connect authorization flow.
 - 💞️ I’m looking to collaborate on projects in C# and .NET Core 6.
 - 📫 You can reach me at kuntahouen@gmail.com
 
