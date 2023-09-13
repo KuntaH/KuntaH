@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects in C# and .NET Core 6.
 - 📫 You can reach me at kuntahouen@gmail.com
 
-I just joined "buy me a Coffee" so you can buy me a coffee, and let's talk about programming!
+I just joined "buy me a coffee" so you can buy me a coffee, and let's talk about programming!
 https://www.buymeacoffee.com/kuntahouen2
 
 <!---
